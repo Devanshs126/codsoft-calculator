@@ -40,7 +40,7 @@ Welcome to Simple Calculator, a web application that allows you to perform basic
 1. **Clone the Repository:**
 
    bash
-   git clone[ https://github.com/your-username/calculator.git](https://github.com/VipulSharma0001/Calculator/tree/main/codesof%20calculater)
+   git clone[[ https://github.com/your-username/calculator.git](https://github.com/Devanshs126/codsoft-calculator/tree/main)
 Open the Project:
 
 1. *Navigate to the project folder.*
